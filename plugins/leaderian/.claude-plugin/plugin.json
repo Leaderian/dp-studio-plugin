@@ -1,7 +1,7 @@
 {
-  "name": "dp-studio",
+  "name": "leaderian",
   "displayName": "상세페이지 스튜디오",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "지식상품 상세페이지를 대화로 기획하고 섹션 PNG까지 만드는 수강생용 스튜디오 (처음 연결할 때 구글 계정으로 로그인)",
   "author": {
     "name": "상세페이지 스튜디오"

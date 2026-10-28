@@ -1,7 +1,7 @@
 ---
 name: copy-critic
 description: 상세페이지 카피 독립 검수관. 작업 폴더의 03_copy.md 또는 output/page-text.md 를 후킹·호흡·사실성·법규로 냉정하게 채점하고 섹션별 수정안을 낸다. 카피 단계와 검수 단계에서 사용.
-tools: Read, Grep, Glob, mcp__plugin_dp-studio_dp__dp_guide
+tools: Read, Grep, Glob, mcp__plugin_leaderian_dp__dp_guide
 model: inherit
 ---
 
