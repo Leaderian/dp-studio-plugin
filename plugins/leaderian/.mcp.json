@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "dp": {
+    "Leaderian-dp-studio": {
       "type": "http",
       "url": "https://dp-studio.leaderian.com/mcp"
     }

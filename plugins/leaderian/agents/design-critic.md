@@ -1,7 +1,7 @@
 ---
 name: design-critic
 description: 상세페이지 섹션 PNG 를 직접 보고 여백·위계·정렬·대비·에셋·리듬을 냉정하게 채점하고 섹션별 구체 수정안(CSS/레이아웃)을 내는 시각 검수관. 조판·렌더 단계와 검수 단계에서 사용.
-tools: Read, Grep, Glob, mcp__plugin_leaderian_dp__dp_guide
+tools: Read, Grep, Glob, mcp__plugin_leaderian_Leaderian-dp-studio__dp_guide
 model: inherit
 ---
 
