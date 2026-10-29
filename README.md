@@ -20,5 +20,5 @@
 
 ## 문의
 
-- 이용 약관·개인정보처리방침: https://dp-api-s6bq57pcpq-uc.a.run.app/terms · https://dp-api-s6bq57pcpq-uc.a.run.app/privacy
+- 이용 약관·개인정보처리방침: https://dp-studio.leaderian.com/terms · https://dp-studio.leaderian.com/privacy
 - 문의: 리더리안

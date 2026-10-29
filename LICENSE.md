@@ -4,6 +4,6 @@
 
 - 오픈소스가 아닙니다. 복제·수정·재배포·판매를 허락하지 않습니다.
 - 플러그인은 서버에 연결하는 얇은 껍데기이며, 실제 사용에는 수강생 명단에 등록된 구글 계정 로그인이 필요합니다.
-- 서비스 이용 약관: https://dp-api-s6bq57pcpq-uc.a.run.app/terms
+- 서비스 이용 약관: https://dp-studio.leaderian.com/terms
 
 © 상세페이지 스튜디오. All rights reserved.

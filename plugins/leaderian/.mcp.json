@@ -2,7 +2,7 @@
   "mcpServers": {
     "dp": {
       "type": "http",
-      "url": "https://dp-api-s6bq57pcpq-uc.a.run.app/mcp"
+      "url": "https://dp-studio.leaderian.com/mcp"
     }
   }
 }
